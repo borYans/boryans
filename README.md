@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Boris Janevski, a software engineer who loves building cool and useful software.
+### My name is Boris
 
 - 🔭 I’m currently working on new personal projects
 - 🌱 I’m currently learning Html, Css and Javascript
