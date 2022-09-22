@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+## I am Boris Janevski, a software engineer who loves building cool and useful software.
 
 - 🔭 I’m currently working on new personal projects
 - 🌱 I’m currently learning Html, Css and Javascript
