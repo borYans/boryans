@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-### My name is Boris
-
-- 🔭 I’m currently working on new personal projects
-- 🌱 I’m currently learning Html, Css and Javascript
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with BuzzFriendz application
-- 💬 Ask me about Android or Kotlin
+### My name is Boris aka Boryans
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=borYans&theme=dark&hide_border=true)](https://git.io/streak-stats)
